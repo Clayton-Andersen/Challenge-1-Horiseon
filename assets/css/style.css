@@ -74,6 +74,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 
 .float-left {
@@ -90,6 +91,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    position: absolute;
 }
 
 .benefits {
