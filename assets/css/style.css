@@ -41,13 +41,13 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-    float: right;
+    float: right; 
 }
 /* end header styles */
 
 /* apply styles to <footer> */
 footer {
-    padding: 50px;
+    padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
